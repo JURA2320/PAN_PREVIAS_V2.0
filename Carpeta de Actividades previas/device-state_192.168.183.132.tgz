@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<response status="error">
+  <msg>
+    <line>Device parameter needed.</line>
+  </msg>
+</response>
